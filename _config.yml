@@ -1,7 +1,7 @@
-name: fotos de boda
+name: FOTOS Y VIDEOS DE BODA
 favicon: null
 layout_spectrum: 0.549913533963263
-typography_spectrum: 0.6899460209533572
+typography_spectrum: 0.2628
 title: mucho más que reportajes
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#86bfbc'
     - '#696e86'
     - '#48454a'
-  brandStrength: 0.45264557329937816
+  brandStrength: 0
   lightness: 0.2231441684998572
-  saturation: 0.3674080832861364
-  rhythmicContrast: 0.5829440467059612
+  saturation: 0.9375
+  rhythmicContrast: 1
 purpose: []
